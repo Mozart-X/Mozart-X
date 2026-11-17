@@ -1,8 +1,6 @@
 ### Hi, I'm Avishek 👋
 
-Self-taught **systems programmer** from Nepal. I like being close to the metal — writing C and assembly with no OS and no standard library underneath, understanding the machine one layer at a time.
-
-I'm building **AvishekOS**, an x86 operating system from scratch: bootloader → protected mode → my own VGA and keyboard drivers. I've also done bare-metal homebrew and reverse-engineering on the PlayStation 2, and I ship production web apps.
+Self-taught **systems programmer** from Nepal. I like being close to the metal, writing C and assembly, understanding the machine one layer at a time.
 
 **🔧 Tools**
 - **Systems / low-level:** C, x86 & x86-64 assembly (NASM, inline asm), bare-metal x86, PS2 (MIPS / ps2sdk), memory-mapped I/O, Ghidra
